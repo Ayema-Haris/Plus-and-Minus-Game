@@ -1,0 +1,120 @@
+body {
+    
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+ 
+  .game-container {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #007bff; 
+    border-radius: 10px;
+    background-color: #ffffff; 
+   
+  }
+  
+  
+  h1 {
+    font-size: 2rem;
+    color: #007bff; 
+    margin-bottom: 20px;
+  }
+  
+  
+  .input-section {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-size: 1.2rem;
+    color: #333;
+    margin-right: 10px;
+  }
+  
+  input {
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .btn {
+    padding: 10px 15px;
+    font-size: 1rem;
+    color: #ffffff;
+    background-color: #007bff; 
+    
+    border-radius: 5px;
+    margin: 5px;
+    
+  }
+  
+  
+  .reset {
+    background-color: #dc3545; 
+  }
+  
+ 
+  .game-area {
+   
+    justify-content: center;
+    margin: 20px ;
+  }
+  
+  .number {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    font-size: 1.2rem;
+    color: #333;
+   
+    border: 2px solid #007bff; 
+    border-radius: 8px;
+    
+  }
+  
+  .number button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+   
+    background-color: #ffc107; 
+    color: #333;
+    
+  }
+  
+  
+  .controls {
+    margin-top: 20px;
+  }
+
+  
+.sumDisplay {
+    margin-left: 10px;
+    font-size: 0.9rem;
+    color: #555; 
+  }
+  
+  
+  #resultMessage {
+    font-size: 1.2rem;
+    margin-top: 15px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  
+  #resultMessage {
+    font-size: 1.2rem;
+    margin-top: 15px;
+    color: #333;
+  }
+  
+ 

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pluses and Minuses Game</title>
+  <link rel="stylesheet" href="Puzzle.css"> 
+</head>
+<body>
+  <div class="game-container">
+    <h1>Pluses and Minuses Game</h1>
+    <div class="input-section">
+      <label for="nInput">Enter a number:</label>  
+      <input type="number" id="nInput" min="1" value="5">  
+      <button id="startGame" class="btn">Start Game</button>
+    </div>
+    <div id="gameArea" class="game-area"></div>
+    <div class="controls">
+      <button id="checkSolution" class="btn">Check Solution</button>
+      <button id="resetGame" class="btn reset">Reset</button>
+    </div>
+    <p id="resultMessage"></p>
+  </div>
+  <script src="Puzzle.js"></script>
+</body>
+</html>
+
+
+
