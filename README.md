@@ -50,9 +50,8 @@ Space Complexity: `O(n)`
 
 ## Screenshots
 
+![](screenshots/screenshot1.png)
 
-```markdown
-![Game Start Screen](screenshots/screenshot1.png)
-![Greedy Algorithm Output](screenshots/screenshot2.png)
-![Brute Force Output](screenshots/screenshot3.png)
+![](screenshots/screenshot2.png)
 
+![](screenshots/screenshot3.png)
